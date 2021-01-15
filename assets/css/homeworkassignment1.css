@@ -17,19 +17,19 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 58px;
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
 }
 
 .header div {
-    padding-top: 15px;
+    padding-top: 25px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .header div ul {
@@ -102,17 +102,17 @@ p {
 }
 
 .benefit-lead h3 {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
 .benefit-brand h3 {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
 .benefit-cost h3 {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
@@ -136,7 +136,7 @@ p {
 
 .search-engine-optimization {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 30px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -145,7 +145,7 @@ p {
 
 .online-reputation-management {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 30px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -154,7 +154,7 @@ p {
 
 .social-media-marketing {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 30px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -162,15 +162,15 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 250px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 250px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 250px;
 }
 
 .search-engine-optimization h2 {
@@ -189,7 +189,7 @@ p {
 }
 
 .footer {
-    padding: 30px;
+    padding: 20px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;

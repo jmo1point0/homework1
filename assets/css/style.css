@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: -40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
 }
 
 .header div {
@@ -29,7 +29,7 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .header div ul {
@@ -47,7 +47,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 32px;
 }
 
 .hero {
@@ -62,11 +62,13 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
+
 }
 
+
 .float-right {
-    float: right;
-    margin-left: 25px;
+    float: left;
+    margin-left: -25px;
 }
 
 .content {
@@ -80,7 +82,7 @@ p {
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
+    width: 10%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -162,7 +164,7 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 200x;
 }
 
 .online-reputation-management img {
