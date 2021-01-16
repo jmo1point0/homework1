@@ -5,5 +5,8 @@ The respository includes in it two css files, an html file, a readme md file, an
 The CSS and image files are located in the assets folder.
 
 
-Link to Website:
+Links:
 file:///C:/Users/jorda/OneDrive/Desktop/BOOTCAMP/homework1/index.html 
+https://github.com/jmo1point0/homework1
+https://jmo1point0.github.io/homework1/     
+
